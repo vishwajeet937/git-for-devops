@@ -7,11 +7,11 @@ git init
 2. Configuration
 Set global username:
 
-git config --global user.name "LondheShubham153"
+git config --global user.name "vishwajeet937"
 
 Set global email:
 
-git config --global user.email "shubhamnath5@gmail.com"
+git config --global user.email "vishwajeetkumar937@gmail.com"
 
 3. File Operations
 Create a new file:
